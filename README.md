@@ -36,7 +36,7 @@ OVERVIEW :
 - Step 7 : We can update  the user info.
 - Step 8 : We can transfer funds from one account to another and changes are reflected .
 
-VALIDATION CHECKS 
+## VALIDATION CHECKS 
 -Username     - Has a validation check , spaces cannot be there 
 -Adhar number - Should be of length 12 digits , only integer numbers ,and no spaces or special charecters .
 -Phone number - Should be of length 10 digits , only integer numbers , and no spaces or special charecters.
