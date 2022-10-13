@@ -17,7 +17,7 @@ I have divided my code into different files to easily understand the code they a
 - login.py - after registration is done we can login , that code is in this file 
 - carddetails.py - this file is used to enter card details and stores in database .
 - base.py - this stands as a back bone to the entire code , all various functions are here .
--rough.py - I have used it as a playground to construct this banking application .
+- rough.py - I have used it as a playground to construct this banking application .
 
 
 I have designed an application for a banking system 
