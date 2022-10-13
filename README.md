@@ -6,8 +6,8 @@
 
 ## DATABASE :
 I have created three tables in total, they are :
- -registration table - contains username,ph number ,adhar number ,address and password .
- -user cards table - has username ,card type ,card name ,card pin ,card CVV and card balance 
+ - registration table - contains username,ph number ,adhar number ,address and password .
+ - user cards table - has username ,card type ,card name ,card pin ,card CVV and card balance 
  - beneficiary table - has username and the beneficiary names .
 
 ## CODE :
