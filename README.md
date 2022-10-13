@@ -45,16 +45,16 @@ OVERVIEW :
 - Password     - Should match with the one given while registering .
 ## Functions
 > For each different feature i have used different function calls 
--Register
--Usercards
--Getinfo
--Beni
--Cards
--Add
--New
--Change
--Update
--Transfer
+- Register
+- Usercards
+- Getinfo
+- Beni
+- Cards
+- Add
+- New
+- Change
+- Update
+- Transfer
 
 ## Tech
 
