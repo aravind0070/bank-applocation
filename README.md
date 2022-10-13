@@ -4,20 +4,20 @@
 
 ## OVER VIEW 
 
-DATABASE :
+## DATABASE :
 I have created three tables in total, they are :
  -registration table - contains username,ph number ,adhar number ,address and password .
  -user cards table - has username ,card type ,card name ,card pin ,card CVV and card balance 
  - beneficiary table - has username and the beneficiary names .
 
-CODE :
+## CODE :
 I have divided my code into different files to easily understand the code they are: 
-1.home.py - which is the file we run to execute our entire code 
-2.registration.py - which is used to register and these details are stored in database .
-3.login.py - after registration is done we can login , that code is in this file 
-4.carddetails.py - this file is used to enter card details and stores in database .
-5.base.py - this stands as a back bone to the entire code , all various functions are here .
-6.rough.py - I have used it as a playground to construct this banking application .
+- home.py - which is the file we run to execute our entire code 
+- registration.py - which is used to register and these details are stored in database .
+- login.py - after registration is done we can login , that code is in this file 
+- carddetails.py - this file is used to enter card details and stores in database .
+- base.py - this stands as a back bone to the entire code , all various functions are here .
+-rough.py - I have used it as a playground to construct this banking application .
 
 
 I have designed an application for a banking system 
